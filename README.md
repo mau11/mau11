@@ -289,24 +289,6 @@ I'm a Software Engineer who loves building impactful web apps and open-source to
       />
     </picture>
   </a>
-  <a href="https://www.gitlab.com/mau11" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="" />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="
-          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg
-        "
-      />
-      <img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg"
-        width="32"
-        height="32"
-        alt="GitLab"
-        title="GitLab"
-      />
-    </picture>
-  </a>
   <a href="https://www.x.com/mauworksdev" target="_blank" rel="noreferrer">
     <picture>
       <source
