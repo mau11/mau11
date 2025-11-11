@@ -386,8 +386,3 @@ I'm a Software Engineer who loves building impactful web apps and open-source to
     </picture>
   </a>
 </p>
-
-<a href="https://www.github.com/mau11" target="\_blank" rel="noreferrer">
-	<img src="https://img.shields.io/github/followers/mau11?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/>
-</a>
