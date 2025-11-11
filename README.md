@@ -4,17 +4,36 @@
 
 I'm a Software Engineer who loves building impactful web apps and open-source tools. I work across the stack and focus on accessibility and user experience. I’m always learning, experimenting, and finding better ways to solve real problems with code.
 
-- 🌍 I'm based in the [Greater Boston Area](https://maps.app.goo.gl/DazhHf1Zp63SyPyRA)
+- 🌍 I'm based in the [Greater Boston area](https://maps.app.goo.gl/DazhHf1Zp63SyPyRA)
 - 🖥️ See my portfolio at [tech.mauworks.com](http://tech.mauworks.com?utm_source=github_readme)
 - 🚀 I'm currently working on [Palekouran](http://github.com/mau11/palekouran/)
 - 👥 I'm looking to collaborate on open source projects
 - 🧶 I knit too: [Mau Works](https://mauworks.com/gallery)
 
+---
+
 ### Tech I've built with:
 
 <p align="left">
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+ <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
+    target="_blank"
+    rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
+      alt="HTML5"
+      title="HTML5"
+      width="36"
+      height="36"
+  /></a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
+      alt="CSS3"
+      title="CSS3"
+      width="36"
+      height="36"
+  /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
     rel="noreferrer"
     ><img
@@ -40,39 +59,7 @@ I'm a Software Engineer who loves building impactful web apps and open-source to
       width="36"
       height="36"
   /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
-      alt="Git"
-      title="Git"
-      width="36"
-      height="36"
-  /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg"
-      alt="VS Code"
-      title="VS Code"
-      width="36"
-      height="36"
-  /></a>
-  <a href="https://www.vim.org/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg"
-      alt="Vim"
-      title="Vim"
-      width="36"
-      height="36"
-  /></a>
-  <a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg"
-      alt="Sublime Text"
-      title="Sublime Text"
-      width="36"
-      height="36"
-  /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
       alt="React"
@@ -88,22 +75,19 @@ I'm a Software Engineer who loves building impactful web apps and open-source to
       width="36"
       height="36"
   /></a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
-    target="_blank"
-    rel="noreferrer"
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"
     ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
-      alt="HTML5"
-      title="HTML5"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg"
+      alt="Vite"
+      title="Vite"
       width="36"
       height="36"
   /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"
+  <a href="https://styled-components.com/" target="_blank" rel="noreferrer"
     ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
-      alt="CSS3"
-      title="CSS3"
+      src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4"
+      alt="styled-components"
+      title="styled-components"
       width="36"
       height="36"
   /></a>
@@ -115,155 +99,181 @@ I'm a Software Engineer who loves building impactful web apps and open-source to
       width="36"
       height="36"
   /></a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg"
-      alt="Vite"
-      title="Vite"
-      width="36"
-      height="36"
-  /></a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"
-    ><img
+  </p>
+
+<p align="left">
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+    <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
       alt="NodeJS"
       title="NodeJS"
       width="36"
       height="36"
-  /></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"
-    ><img
+    />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg"
       alt="Express"
       title="Express"
       width="36"
       height="36"
-  /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
-      alt="MongoDB"
-      title="MongoDB"
+    />
+  </a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4"
+      alt="Prisma ORM"
+      title="Prisma ORM"
       width="36"
       height="36"
-  /></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
-      alt="PostgreSQL"
-      title="PostgreSQL"
-      width="36"
-      height="36"
-  /></a>
-  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg"
-      alt="Heroku"
-      title="Heroku"
-      width="36"
-      height="36"
-  /></a>
-  <a href="https://render.com/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg"
-      alt="Render"
-      title="Render"
-      width="36"
-      height="36"
-  /></a>
-  <a href="https://supabase.io/" target="_blank" rel="noreferrer"
-    ><img
+    />
+  </a>
+  <a href="https://supabase.io/" target="_blank" rel="noreferrer">
+    <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg"
       alt="Supabase"
       title="Supabase"
       width="36"
       height="36"
-  /></a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"
-    ><img
+    />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
+      alt="PostgreSQL"
+      title="PostgreSQL"
+      width="36"
+      height="36"
+    />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
+      alt="MongoDB"
+      title="MongoDB"
+      width="36"
+      height="36"
+    />
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg"
       alt="Amazon Web Services"
       title="Amazon Web Services"
       width="36"
       height="36"
-  /></a>
-  <a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"
-    ><img
+    />
+  </a>
+  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg"
+      alt="Heroku"
+      title="Heroku"
+      width="36"
+      height="36"
+    />
+  </a>
+  <a href="https://www.digitalocean.com" target="_blank" rel="noreferrer">
+    <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg"
       alt="Digital Ocean"
       title="Digital Ocean"
       width="36"
       height="36"
-  /></a>
+    />
+  </a>
+  <a href="https://render.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg"
+      alt="Render"
+      title="Render"
+      width="36"
+      height="36"
+    />
+  </a>
 </p>
 
 ### Tech I'd love to learn more about:
 
 <p align="left"> 
-	<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"
-		><img
-			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg"
-			alt="Swift"
-			title="Swift"
-			width="36"
-			height="36" /></a
-	><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"
-		><img
-			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg"
-			alt="Kotlin"
-			title="Kotlin"
-			width="36"
-			height="36" /></a
-	><a href="https://www.python.org/" target="_blank" rel="noreferrer"
-		><img
-			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
-			alt="Python"
-			title="Python"
-			width="36"
-			height="36" /></a
-	><a href="https://graphql.org/" target="_blank" rel="noreferrer"
-		><img
-			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg"
-			alt="GraphQL"
-			title="GraphQL"
-			width="36"
-			height="36" /></a
-	><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"
-		><img
-			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg"
-			alt="Microsoft Azure"
-			title="Microsoft Azure"
-			width="36"
-			height="36" /></a
-	><a href="https://wordpress.com" target="_blank" rel="noreferrer"
-		><img
-			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg"
-			alt="Wordpress"
-			title="Wordpress"
-			width="36"
-			height="36" /></a
-	><a href="https://flutter.dev/" target="_blank" rel="noreferrer"
-		><img
-			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg"
-			alt="Flutter"
-			title="Flutter"
-			width="36"
-			height="36" /></a
-	><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"
-		><img
-			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg"
-			alt="Kubernetes"
-			title="Kubernetes"
-			width="36"
-			height="36"
-	/></a>
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg"
+      alt="Kotlin"
+      title="Kotlin"
+      width="36"
+      height="36"
+    />
+  </a>
+	<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg"
+      alt="Swift"
+      title="Swift"
+      width="36"
+      height="36"
+    />
+  </a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg"
+      alt="Flutter"
+      title="Flutter"
+      width="36"
+      height="36"
+    />
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
+      alt="Python"
+      title="Python"
+      width="36"
+      height="36"
+    />
+  </a>
+  <a href="https://wordpress.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg"
+      alt="Wordpress"
+      title="Wordpress"
+      width="36"
+      height="36"
+    />
+  </a>
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg"
+      alt="GraphQL"
+      title="GraphQL"
+      width="36"
+      height="36"
+    />
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg"
+      alt="Kubernetes"
+      title="Kubernetes"
+      width="36"
+      height="36"
+  />
+  </a>
+  <a href="https://portal.azure.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg"
+      alt="Microsoft Azure"
+      title="Microsoft Azure"
+      width="36"
+      height="36"
+    />
+  </a>
 </p>
 
-### My GitHub Stats
+---
 
-<a href="http://www.github.com/mau11"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mau11&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-### Socials
+### Socials:
 
 <p align="left">
   <a href="https://www.github.com/mau11" target="_blank" rel="noreferrer">
