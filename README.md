@@ -5,8 +5,8 @@
 I'm a Software Engineer who loves building impactful web apps and open-source tools. I work across the stack and focus on accessibility and user experience. I’m always learning, experimenting, and finding better ways to solve real problems with code.
 
 - 🌍 I'm based in the [Greater Boston area](https://maps.app.goo.gl/DazhHf1Zp63SyPyRA)
-- 🖥️ See my portfolio at [tech.mauworks.com](http://tech.mauworks.com?utm_source=github_readme)
-- 🚀 I'm currently working on [Palekouran](http://github.com/mau11/palekouran/)
+- 🖥️ See my portfolio at [tech.mauworks.com](https://tech.mauworks.com?utm_source=github_readme)
+- 🚀 I'm currently working on [Palekouran](https://github.com/mau11/palekouran/)
 - 👥 I'm looking to collaborate on open source projects
 - 🧶 I knit too: [Mau Works](https://mauworks.com/gallery)
 
@@ -16,7 +16,7 @@ I'm a Software Engineer who loves building impactful web apps and open-source to
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36"/></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36"/></a>
   <a href="https://www.perl.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/perl-colored.svg" alt="Perl" title="Perl" width="36" height="36"/></a>
@@ -37,6 +37,7 @@ I'm a Software Engineer who loves building impactful web apps and open-source to
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36"/></a>
   <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" alt="Heroku" title="Heroku" width="36" height="36"/></a>
   <a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" alt="Digital Ocean" title="Digital Ocean" width="36" height="36"/></a>
+  <a href="https://netlify.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/7892489?s=200&v=4" alt="Netlify" title="Netlify" width="36" height="36"/></a>
   <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" alt="Render" title="Render" width="36" height="36"/></a>
 </p>
 
