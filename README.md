@@ -21,6 +21,7 @@ I'm a Software Engineer who loves building impactful web apps and open-source to
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36"/></a>
   <a href="https://www.perl.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/perl-colored.svg" alt="Perl" title="Perl" width="36" height="36"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36"/></a>
+  <a href="https://reactrouter.com/" target="_blank" rel="noreferrer"><img src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Light.svg" alt="React Router" title="React Router" width="36" height="36"/></a>
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36"/></a>
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36"/></a>
   <a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="styled-components" title="styled-components" width="36" height="36"/></a>
@@ -30,7 +31,9 @@ I'm a Software Engineer who loves building impactful web apps and open-source to
 <p align="left">
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36"/></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36"/></a>
+  <a href="https://hono.dev/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/98495527?s=200&v=4" alt="Hono" title="Hono" width="36" height="36"/></a>
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="Prisma ORM" title="Prisma ORM" width="36" height="36"/></a>
+  <a href="https://orm.drizzle.team/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/108468352?s=48&v=4" alt="Drizzle ORM" title="Drizzle ORM" width="36" height="36"/></a>
   <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36"/></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36"/></a>
@@ -39,6 +42,7 @@ I'm a Software Engineer who loves building impactful web apps and open-source to
   <a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" alt="Digital Ocean" title="Digital Ocean" width="36" height="36"/></a>
   <a href="https://netlify.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/7892489?s=200&v=4" alt="Netlify" title="Netlify" width="36" height="36"/></a>
   <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" alt="Render" title="Render" width="36" height="36"/></a>
+  <a href="https://railway.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/66716858?s=200&v=4" alt="Railway" title="Railway" width="36" height="36"/></a>
 </p>
 
 ### Tech I'd love to learn more about:
